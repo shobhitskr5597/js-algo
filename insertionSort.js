@@ -13,3 +13,5 @@ function insertionSort(arr) {
   
   console.log(insertionSort([-5, 8, 3, 7, 4, 0, 6]))
   
+
+  //Big O: O(n^2)

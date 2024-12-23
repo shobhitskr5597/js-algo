@@ -9,4 +9,6 @@ function bubbleSort(arr) {
     return arr
   }
   
-  console.log(bubbleSort([-5,8,3,7,4,0,6]))
+console.log(bubbleSort([-5,8,3,7,4,0,6]))
+
+//Big O: O(n^2)

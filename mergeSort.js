@@ -20,3 +20,4 @@ function mergeSort(arr) {
   
   console.log(mergeSort([-5, 8, 3,10,20, 7, 4, 0, 6]))
   
+//Big O: O(nlogn)

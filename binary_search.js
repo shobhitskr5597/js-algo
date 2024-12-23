@@ -17,3 +17,5 @@ function binarySearch(arr,numb) {
   } 
   
   console.log(binarySearch([-5,2,4,5,7,8,10],7))
+
+  //Big O: O(logn)
