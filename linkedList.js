@@ -152,15 +152,15 @@ class LinkedList {
   }
 }
 
-const list = new LinkedList();
-/* console.log('List is empty?' + list.isEmpty())
-console.log('Size of List is'+ list.getSize()) */
-list.append(10)
-list.append(20)
-list.append(30)
-console.log('List is empty?' + list.isEmpty())
-list.insert(40,1)
-list.print()
-console.log(list.search(30))
-list.reverse()
-list.print()
+// const list = new LinkedList();
+// /* console.log('List is empty?' + list.isEmpty())
+// console.log('Size of List is'+ list.getSize()) */
+// list.append(10)
+// list.append(20)
+// list.append(30)
+// console.log('List is empty?' + list.isEmpty())
+// list.insert(40,1)
+// list.print()
+// console.log(list.search(30))
+// list.reverse()
+// list.print()
